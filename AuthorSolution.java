@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.StringTokenizer;
 import java.util.TreeSet;
 
-public class Main {
+public class AuthorSolution {
 	
 	public static void main(String[] args) {	
 		FastScanner fs = new FastScanner();
